@@ -36,7 +36,7 @@ Use unsupervised learning and clustering algorithms to
 **Cluster 3:**
 - characterized by low density and low chlorides.
 
-##### *identified the red/white wine clusters and here are their respective characteristics:*
+##### *Identified the red/white wine clusters and here are their respective characteristics:*
 
 **Cluster 0(Red):**
 - High "acidity" and "sulphate" concentration, low "total sulfur dioxide" and "free sulfur dioxide" concentration.
